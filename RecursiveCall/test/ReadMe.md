@@ -1,3 +1,5 @@
+![book](http://image.yes24.com/momo/TopCate1232/MidCate001/123106048.jpg)
+
 # 배열로 구현한 스택(ArrayStack)
 ## 1. struct
 - C의 배열을 이용한 것이므로 생성할 때 반드시 **스택의 크기**를 지정해주어야 한다.
