@@ -1,4 +1,4 @@
-![fibo](/images/recursion_fibonacci_1.png)
+![fibo1](/images/recursion_fibonacci_1.png)
 
 # 배열로 구현한 스택(ArrayStack)
 ## 1. struct
