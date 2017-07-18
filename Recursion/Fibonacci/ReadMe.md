@@ -1,9 +1,9 @@
 # 피보나치 수열 (Fibonacci)
 ## 1. 풀이
 - fib(n)
-+ 0   if n=0
-+ 1   if n=1
-+ fib(n-1) + fib(n-2)   if n>=2
+  + 0   if n=0
+  + 1   if n=1
+  + fib(n-1) + fib(n-2)   if n>=2
 
 ## 2. 재귀 호출을 이용한 구현
 ![book](/images/recursion_fibonacci_1.png)
