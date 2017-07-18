@@ -6,7 +6,7 @@
 + fib(n-1) + fib(n-2)   if n>=2
 
 ## 2. 재귀 호출을 이용한 구현
-![book](../images/recursion_fibonacci_1.png)
+![book](/images/recursion_fibonacci_1.png)
 - 피보나치 수열을 재귀 호출로 구현할 경우 성능면에서 매우 비효율적
 - 같은 숫자에 대한 피보나치 수열 계산을 중복하여 호출하기 때문이다.
 - ex) fib(6)의 값을 계산하기 위해 fib(4)가 두 번 호출, fib(3)은 세 번 호출되므로...
